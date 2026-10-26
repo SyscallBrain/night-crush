@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0373",
+  "difficulty": "hard",
+  "revision": 5,
+  "seedHex": "f13c8dfd1cb16a40",
+  "moves": [
+    {
+      "a": [
+        4,
+        2
+      ],
+      "b": [
+        5,
+        2
+      ]
+    },
+    {
+      "a": [
+        6,
+        5
+      ],
+      "b": [
+        6,
+        6
+      ]
+    },
+    {
+      "a": [
+        5,
+        5
+      ],
+      "b": [
+        6,
+        5
+      ]
+    },
+    {
+      "a": [
+        6,
+        5
+      ],
+      "b": [
+        6,
+        6
+      ]
+    },
+    {
+      "a": [
+        1,
+        3
+      ],
+      "b": [
+        1,
+        4
+      ]
+    },
+    {
+      "a": [
+        8,
+        2
+      ],
+      "b": [
+        8,
+        3
+      ]
+    },
+    {
+      "a": [
+        3,
+        7
+      ],
+      "b": [
+        4,
+        7
+      ]
+    },
+    {
+      "a": [
+        3,
+        4
+      ],
+      "b": [
+        4,
+        4
+      ]
+    },
+    {
+      "a": [
+        7,
+        5
+      ],
+      "b": [
+        8,
+        5
+      ]
+    },
+    {
+      "a": [
+        5,
+        3
+      ],
+      "b": [
+        6,
+        3
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "32779a6e7be56487cec354376ee79e0c6e5367cbadd6039f8dedd7339331ecf3",
+    "64288240631c4ce4584e823d032eb37d81b9ffed531e04e3c842d309981ec6ed",
+    "52f39a4ead669567ca371deeff40f2e8a77390453d916388221a7736c5370f9f",
+    "576745359a4a802cd2a3b1a54eb53f43da4649902bdf44e78fb8e00636d123a6",
+    "5d4dca16560be1801552395015af3f393e4b47ee06448fdc4dee197cf13d6bdf",
+    "265ecf6559734908788bf0977bb637e1b347de11a654af444884aa604ca0192b",
+    "749a6c4954e1d014bdd07268f09d08f809daa9dce124e35c6a2ae39932f61a7e",
+    "db40ded6c510814437fb8f6bfc0d777804b2963b123fb133264334a1e653a2d8",
+    "afdf1133b54ef3d3f7a81daa715a8eae80c04589ac427f5401246439ef7bbe77",
+    "e7b8de7b79fff2d96fd4d21ba07137022a252e472a83e478edf7501f0b962dff"
+  ],
+  "finalScore": 75240,
+  "movesUsed": 10,
+  "maxCascade": 7,
+  "twoStars": 38300,
+  "threeStars": 63900
+}

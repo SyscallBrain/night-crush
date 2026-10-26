@@ -1,0 +1,1814 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "id": "level-0184",
+  "ordinal": 184,
+  "worldId": "world-04",
+  "titlePt": "Areias dos Farilhões",
+  "titleEn": "Sands of the Farilhões",
+  "familyId": "coral-heart",
+  "learningTags": [
+    "orders"
+  ],
+  "revision": 5,
+  "isFullMoon": false,
+  "variants": {
+    "easy": {
+      "seedHex": "873379ac90e1a7ce",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        ".XXXXXXX.",
+        "..XXXXX..",
+        "...XXX..."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 0,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "blocker": {
+            "kind": "coral",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "blocker": {
+            "kind": "coral",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "blocker": {
+            "kind": "coral",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "blocker": {
+            "kind": "coral",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "blocker": {
+            "kind": "coral",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 2,
+          "lanterns": false
+        },
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        },
+        {
+          "c": 6,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 9
+      },
+      "objectives": [
+        {
+          "type": "orders",
+          "colors": {},
+          "count": 0,
+          "orders": [
+            {
+              "kind": "breakLayers",
+              "value": "CORAL",
+              "count": 3
+            },
+            {
+              "kind": "collect",
+              "color": "BLUE",
+              "count": 9
+            }
+          ],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 66400,
+        "three": 110700
+      },
+      "expectedMetrics": {
+        "humanWinRate": 1.0,
+        "solverMoves": 1,
+        "solverMillis": 0
+      }
+    },
+    "medium": {
+      "seedHex": "2b18953a04c32d8b",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        ".XXXXXXX.",
+        "..XXXXX..",
+        "...XXX..."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL",
+        "GREEN"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 0,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 2,
+          "lanterns": false
+        },
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        },
+        {
+          "c": 6,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 8
+      },
+      "objectives": [
+        {
+          "type": "orders",
+          "colors": {},
+          "count": 0,
+          "orders": [
+            {
+              "kind": "breakLayers",
+              "value": "CORAL",
+              "count": 8
+            },
+            {
+              "kind": "collect",
+              "color": "GREEN",
+              "count": 12
+            }
+          ],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 13000,
+        "three": 21700
+      },
+      "expectedMetrics": {
+        "humanWinRate": 1.0,
+        "solverMoves": 3,
+        "solverMillis": 0
+      }
+    },
+    "hard": {
+      "seedHex": "9ab003082c1449cf",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        ".XXXXXXX.",
+        "..XXXXX..",
+        "...XXX..."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL",
+        "GREEN",
+        "CORAL"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 0,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "blocker": {
+            "kind": "coral",
+            "layers": 2,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 2,
+          "lanterns": false
+        },
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        },
+        {
+          "c": 6,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 8
+      },
+      "objectives": [
+        {
+          "type": "orders",
+          "colors": {},
+          "count": 0,
+          "orders": [
+            {
+              "kind": "breakLayers",
+              "value": "CORAL",
+              "count": 9
+            },
+            {
+              "kind": "collect",
+              "color": "GREEN",
+              "count": 15
+            }
+          ],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 35900,
+        "three": 59900
+      },
+      "expectedMetrics": {
+        "humanWinRate": 0.7333333333333333,
+        "solverMoves": 4,
+        "solverMillis": 0
+      }
+    }
+  }
+}

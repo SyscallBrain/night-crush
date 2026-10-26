@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0307",
+  "difficulty": "medium",
+  "revision": 4,
+  "seedHex": "d87ab65215d3c79d",
+  "moves": [
+    {
+      "a": [
+        6,
+        3
+      ],
+      "b": [
+        7,
+        3
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "1d545341f0c623e94bcc39644936b5204ef77799cab2c4b5f1e3694468369a45"
+  ],
+  "finalScore": 77100,
+  "movesUsed": 1,
+  "maxCascade": 6,
+  "twoStars": 39300,
+  "threeStars": 65500
+}

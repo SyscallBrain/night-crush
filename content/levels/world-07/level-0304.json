@@ -1,0 +1,1600 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "id": "level-0304",
+  "ordinal": 304,
+  "worldId": "world-07",
+  "titlePt": "Segredos das Fajãs",
+  "titleEn": "Secrets of the Fajãs",
+  "familyId": "seahorse-arrow",
+  "learningTags": [
+    "seahorses"
+  ],
+  "revision": 4,
+  "isFullMoon": false,
+  "variants": {
+    "easy": {
+      "seedHex": "4797bc65da43ec71",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "...XXX...",
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "..XXXXX..",
+        "..XXXXX..",
+        "..XXXXX.."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL",
+        "GREEN"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 15
+      },
+      "objectives": [
+        {
+          "type": "freeSeahorses",
+          "colors": {},
+          "count": 3,
+          "orders": [],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 15400,
+        "three": 25800
+      },
+      "expectedMetrics": {
+        "humanWinRate": 1.0,
+        "solverMoves": 2,
+        "solverMillis": 0
+      }
+    },
+    "medium": {
+      "seedHex": "c1194fc54f675244",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "...XXX...",
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "..XXXXX..",
+        "..XXXXX..",
+        "..XXXXX.."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL",
+        "GREEN"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 8,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 8,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 12
+      },
+      "objectives": [
+        {
+          "type": "freeSeahorses",
+          "colors": {},
+          "count": 4,
+          "orders": [],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 25100,
+        "three": 41900
+      },
+      "expectedMetrics": {
+        "humanWinRate": 1.0,
+        "solverMoves": 2,
+        "solverMillis": 0
+      }
+    },
+    "hard": {
+      "seedHex": "830f0ea5a070142b",
+      "width": 9,
+      "height": 9,
+      "mask": [
+        "...XXX...",
+        "..XXXXX..",
+        ".XXXXXXX.",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "XXXXXXXXX",
+        "..XXXXX..",
+        "..XXXXX..",
+        "..XXXXX.."
+      ],
+      "colors": [
+        "BLUE",
+        "YELLOW",
+        "PURPLE",
+        "TEAL",
+        "GREEN",
+        "CORAL"
+      ],
+      "cells": [
+        {
+          "r": 0,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 0,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 0,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 1,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 1,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 1,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 1,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 2,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 2,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 2,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 2,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 3,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 3,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 3,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 3,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 3,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 4,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 4,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 4,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 3,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 4,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 4,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 4,
+          "c": 8,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 5,
+          "c": 0,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 1,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 5,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 5,
+          "c": 7,
+          "piece": {
+            "kind": "normal",
+            "color": "YELLOW"
+          }
+        },
+        {
+          "r": 5,
+          "c": 8,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 6,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 6,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 6,
+          "c": 5,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        },
+        {
+          "r": 6,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 7,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "GREEN"
+          }
+        },
+        {
+          "r": 7,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "TEAL"
+          }
+        },
+        {
+          "r": 7,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 7,
+          "c": 6,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 2,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 3,
+          "piece": {
+            "kind": "normal",
+            "color": "CORAL"
+          }
+        },
+        {
+          "r": 8,
+          "c": 4,
+          "piece": {
+            "kind": "normal",
+            "color": "BLUE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 5,
+          "piece": {
+            "kind": "normal",
+            "color": "PURPLE"
+          }
+        },
+        {
+          "r": 8,
+          "c": 6,
+          "blocker": {
+            "kind": "seahorseBubble",
+            "layers": 1,
+            "counter": 0,
+            "hp": 5
+          }
+        }
+      ],
+      "spawners": [
+        {
+          "c": 3,
+          "lanterns": false
+        },
+        {
+          "c": 4,
+          "lanterns": false
+        },
+        {
+          "c": 5,
+          "lanterns": false
+        }
+      ],
+      "exits": [],
+      "portals": [],
+      "conveyor": [],
+      "limit": {
+        "type": "moves",
+        "value": 9
+      },
+      "objectives": [
+        {
+          "type": "freeSeahorses",
+          "colors": {},
+          "count": 4,
+          "orders": [],
+          "blockers": {}
+        }
+      ],
+      "stars": {
+        "two": 19600,
+        "three": 32700
+      },
+      "expectedMetrics": {
+        "humanWinRate": 1.0,
+        "solverMoves": 3,
+        "solverMillis": 0
+      }
+    }
+  }
+}

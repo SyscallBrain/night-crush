@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0232",
+  "difficulty": "hard",
+  "revision": 5,
+  "seedHex": "403a19691c476de5",
+  "moves": [
+    {
+      "a": [
+        5,
+        1
+      ],
+      "b": [
+        5,
+        2
+      ]
+    },
+    {
+      "a": [
+        5,
+        5
+      ],
+      "b": [
+        5,
+        6
+      ]
+    },
+    {
+      "a": [
+        3,
+        0
+      ],
+      "b": [
+        4,
+        0
+      ]
+    },
+    {
+      "a": [
+        3,
+        5
+      ],
+      "b": [
+        3,
+        6
+      ]
+    },
+    {
+      "a": [
+        4,
+        6
+      ],
+      "b": [
+        5,
+        6
+      ]
+    },
+    {
+      "a": [
+        1,
+        5
+      ],
+      "b": [
+        2,
+        5
+      ]
+    },
+    {
+      "a": [
+        4,
+        2
+      ],
+      "b": [
+        4,
+        3
+      ]
+    },
+    {
+      "a": [
+        6,
+        3
+      ],
+      "b": [
+        6,
+        4
+      ]
+    },
+    {
+      "a": [
+        3,
+        1
+      ],
+      "b": [
+        3,
+        2
+      ]
+    },
+    {
+      "a": [
+        4,
+        2
+      ],
+      "b": [
+        5,
+        2
+      ]
+    },
+    {
+      "a": [
+        6,
+        3
+      ],
+      "b": [
+        6,
+        4
+      ]
+    },
+    {
+      "a": [
+        6,
+        3
+      ],
+      "b": [
+        6,
+        4
+      ]
+    },
+    {
+      "a": [
+        4,
+        5
+      ],
+      "b": [
+        4,
+        6
+      ]
+    },
+    {
+      "a": [
+        5,
+        4
+      ],
+      "b": [
+        5,
+        5
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "b4509da3967ea14c4f4c976d491fc6e0635d9d5cc35a5baec4fce095a405aebd",
+    "f78cec246680910e1551e7e9c7700d4f5450061d08b6a71fefec352d852acc35",
+    "20383d4c5e6542137baca39d92fa35e09fc78118f56ad7562474466c03bbdfa7",
+    "1d287cbc6855f700d6a7d4c06fa5e19e5c413ef2e0968649f4e7d3c32d05bb99",
+    "ca3e5090006b5c153f559c84e24363e6a271bc70bec11d7e93c79232bc00f9a9",
+    "9e35cb2fb754cfc1fa5e07b6dda25c5a1f9899480a6681d90cbb88b84204c2aa",
+    "420029358ffc3aafc93e6a4543f29f0e1a0b06ca008cd06c477aee726596a522",
+    "a6b6b965f500d25c3c65eeaa61acb26737e574fc25a99d2755cd8b76af5cf2c4",
+    "e27b7cb2c3f94befcbc19638e0903331ccf416ff4c75bbc7a764413e74ebd1da",
+    "f3c4acfebb7a87e62301c4de91ee4e06085207e90c6a44a3526ceb98abbc7f73",
+    "7cc63730163e08b17712b1d11edd97b6afa1176bdd4878f1bc342ce099c849ec",
+    "0c576e30959b48d5c2c3edd22ad0767bee1d8398be3bcecfade65029c2201568",
+    "2e80d705568097e8dcbe6b36df1cb93e587c9726687238402b0374678ec50a3c",
+    "abaf423a67422ede0f4676b5b2d881fc98dee24d1bac4c49651273874efa096e"
+  ],
+  "finalScore": 224880,
+  "movesUsed": 14,
+  "maxCascade": 8,
+  "twoStars": 114600,
+  "threeStars": 191100
+}

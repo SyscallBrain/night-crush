@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0168",
+  "difficulty": "hard",
+  "revision": 3,
+  "seedHex": "f3c94bf17d8fea0d",
+  "moves": [
+    {
+      "a": [
+        2,
+        5
+      ],
+      "b": [
+        2,
+        6
+      ]
+    },
+    {
+      "a": [
+        7,
+        5
+      ],
+      "b": [
+        8,
+        5
+      ]
+    },
+    {
+      "a": [
+        0,
+        5
+      ],
+      "b": [
+        0,
+        6
+      ]
+    },
+    {
+      "a": [
+        7,
+        4
+      ],
+      "b": [
+        8,
+        4
+      ]
+    },
+    {
+      "a": [
+        4,
+        3
+      ],
+      "b": [
+        5,
+        3
+      ]
+    },
+    {
+      "a": [
+        4,
+        8
+      ],
+      "b": [
+        5,
+        8
+      ]
+    },
+    {
+      "a": [
+        8,
+        7
+      ],
+      "b": [
+        8,
+        8
+      ]
+    },
+    {
+      "a": [
+        6,
+        0
+      ],
+      "b": [
+        6,
+        1
+      ]
+    },
+    {
+      "a": [
+        4,
+        4
+      ],
+      "b": [
+        4,
+        5
+      ]
+    },
+    {
+      "a": [
+        1,
+        0
+      ],
+      "b": [
+        2,
+        0
+      ]
+    },
+    {
+      "a": [
+        4,
+        4
+      ],
+      "b": [
+        5,
+        4
+      ]
+    },
+    {
+      "a": [
+        7,
+        4
+      ],
+      "b": [
+        8,
+        4
+      ]
+    },
+    {
+      "a": [
+        6,
+        7
+      ],
+      "b": [
+        7,
+        7
+      ]
+    },
+    {
+      "a": [
+        5,
+        7
+      ],
+      "b": [
+        5,
+        8
+      ]
+    },
+    {
+      "a": [
+        4,
+        6
+      ],
+      "b": [
+        4,
+        7
+      ]
+    },
+    {
+      "a": [
+        3,
+        7
+      ],
+      "b": [
+        4,
+        7
+      ]
+    },
+    {
+      "a": [
+        3,
+        5
+      ],
+      "b": [
+        3,
+        6
+      ]
+    },
+    {
+      "a": [
+        4,
+        6
+      ],
+      "b": [
+        5,
+        6
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "8f2d9c0b29dfff7feecdc10453ba847e37d1c7baa0f0d4b05090b9b11a50de36",
+    "ff4f7a1eb8e283491af83ac555077f8c81267a28a6986ee899cf263383dd88a1",
+    "4b314adbc2eea20a2c9e1cf64b1d69ed769ac0f3a6a375c8a2f212ae3436cf5a",
+    "56c95e8045a5d0fdbb30cacf6cc52ac66849d636b9435824950f6d6dc80ca66c",
+    "62f24ef7046e05ca79b78a3d04d2f5be3d6a52f21dc63b6f782160f38b029e2a",
+    "48489233f14f570b16e90cd9a9d180f73371f508e62468477b4f635b9e369b33",
+    "bb7a8b211fc39966fe1d5b071626eda9c8915ed1103acbd40b638a9ec7abe3d5",
+    "3ce2185b41ca3408f50660ad6773173ef2c5ea07d77e58b897cd95f347714299",
+    "42e72da80c7175810e1f5add3da9f49c0da540f3a4ed0ef273e1dd7f2b5d6922",
+    "fc53696ee0a8cf882723dc4cdef79d28c712e861298d0afb1491db8bc0dab70e",
+    "fb9dd3314f5f70ed9396dc48e8e771906158b704e98222032711eba7feb33b67",
+    "b6d6d9e7580fce8528edd74258b5efb4220746cdaca630dd5f95b792cd4f819b",
+    "b317b0c8fe748e31c91b08e5d150e6aee43d8bcecede92d8928e7260a6a79a8b",
+    "f929cb79f9a79666ed13223db50390f20597bfc2affe0a29c0e087b3e593f9dd",
+    "ab1c5fb6e644e70684bb0d0c80fd4729c6860430f44f618c820b4fc2b7f1ba65",
+    "fb7fd37c3b40d847c2651e83b6fd17f2285f4aaff8e9c9804ad5c73ae40620c9",
+    "eeb62c9788e254e6ec6acb91b2015046953f58d7eaead78a10ab0f2e2fa6e40b",
+    "79b76f590298cb7dec0aec3783e9e47f97671c048eaf2e28699025bcefb32d4e"
+  ],
+  "finalScore": 279760,
+  "movesUsed": 18,
+  "maxCascade": 8,
+  "twoStars": 142600,
+  "threeStars": 237700
+}

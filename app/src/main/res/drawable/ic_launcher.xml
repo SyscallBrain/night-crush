@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A glowing sea crystal (the Teal piece) with a crescent moon and a star. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M18,55 a36,36 0 1,0 72,0 a36,36 0 1,0 -72,0">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="radial" android:centerX="54" android:centerY="55"
+                android:gradientRadius="36">
+                <item android:offset="0" android:color="#8C3EF2C6" />
+                <item android:offset="0.55" android:color="#1F3EF2C6" />
+                <item android:offset="1" android:color="#003EF2C6" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:pathData="M54,28 L77,55 L54,81 L31,55 Z" android:fillColor="#FF159E86" />
+    <path android:pathData="M54,28 L31,55 L54,55 Z" android:fillColor="#FFB8FFEE" />
+    <path android:pathData="M54,28 L77,55 L54,55 Z" android:fillColor="#FF3EF2C6" />
+    <path android:pathData="M31,55 L54,81 L54,55 Z" android:fillColor="#FF2BD7B0" />
+    <path android:pathData="M54,28 L64.5,55 L54,81 L43.5,55 Z" android:fillColor="#2EFFFFFF" />
+    <path
+        android:pathData="M54,28 L77,55 L54,81 L31,55 Z"
+        android:strokeColor="#FFE3FBF6"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M74,27 L75.8,32.2 L81,34 L75.8,35.8 L74,41 L72.2,35.8 L67,34 L72.2,32.2 Z"
+        android:fillColor="#FFF2E86D" />
+    <path
+        android:pathData="M36,28.8 A7.5,7.5 0 1,0 41.2,38 A6,6 0 1,1 36,28.8 Z"
+        android:fillColor="#FFC58BFF" />
+</vector>

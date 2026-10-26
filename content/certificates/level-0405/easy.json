@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0405",
+  "difficulty": "easy",
+  "revision": 4,
+  "seedHex": "71fbda5634cc5352",
+  "moves": [
+    {
+      "a": [
+        3,
+        5
+      ],
+      "b": [
+        3,
+        6
+      ]
+    },
+    {
+      "a": [
+        6,
+        2
+      ],
+      "b": [
+        6,
+        3
+      ]
+    },
+    {
+      "a": [
+        5,
+        5
+      ],
+      "b": [
+        5,
+        6
+      ]
+    },
+    {
+      "a": [
+        5,
+        1
+      ],
+      "b": [
+        5,
+        2
+      ]
+    },
+    {
+      "a": [
+        5,
+        3
+      ],
+      "b": [
+        6,
+        3
+      ]
+    },
+    {
+      "a": [
+        5,
+        6
+      ],
+      "b": [
+        5,
+        7
+      ]
+    },
+    {
+      "a": [
+        4,
+        3
+      ],
+      "b": [
+        4,
+        4
+      ]
+    },
+    {
+      "a": [
+        7,
+        2
+      ],
+      "b": [
+        7,
+        3
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "eb38b592a046265a144f363872f1ed1e5cb8780b1db97165694fdea5fbd91c46",
+    "45f3d45468f3a2f1a0b07af906d01e3b3dcf5be351dcbe04a93e98d59b433789",
+    "cc6f9675d68b7a16b07cf39ccfa0a856159bcfad50685ce6c8d5d5f19630333a",
+    "45eb886331c3fcc6ec854bf403bf1cd8bdbbd6577b42541c138f82e0a146b076",
+    "89965f08fb5ad5fa18c385256f3c816a583f4a564d300d48b7d202d314e7a33e",
+    "668ad983f5940ce40f590db66394b8f9b2e0a7951449663a53b0c269801934e1",
+    "ed6c965128b1a97f99c4ee6f002b67f82ba9ae164fd1b9c92eee68114b5883ff",
+    "2a9edd181f6b669749890fca859f3584819fb75b1e58bc6429da96bb634f56ca"
+  ],
+  "finalScore": 86380,
+  "movesUsed": 8,
+  "maxCascade": 10,
+  "twoStars": 44000,
+  "threeStars": 73400
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": 4,
+  "levelId": "level-0135",
+  "difficulty": "hard",
+  "revision": 5,
+  "seedHex": "148706dbb40739ae",
+  "moves": [
+    {
+      "a": [
+        4,
+        4
+      ],
+      "b": [
+        4,
+        5
+      ]
+    },
+    {
+      "a": [
+        3,
+        3
+      ],
+      "b": [
+        4,
+        3
+      ]
+    },
+    {
+      "a": [
+        2,
+        6
+      ],
+      "b": [
+        2,
+        7
+      ]
+    },
+    {
+      "a": [
+        2,
+        5
+      ],
+      "b": [
+        3,
+        5
+      ]
+    },
+    {
+      "a": [
+        3,
+        4
+      ],
+      "b": [
+        4,
+        4
+      ]
+    },
+    {
+      "a": [
+        0,
+        4
+      ],
+      "b": [
+        1,
+        4
+      ]
+    },
+    {
+      "a": [
+        5,
+        4
+      ],
+      "b": [
+        5,
+        5
+      ]
+    },
+    {
+      "a": [
+        6,
+        6
+      ],
+      "b": [
+        7,
+        6
+      ]
+    },
+    {
+      "a": [
+        4,
+        1
+      ],
+      "b": [
+        4,
+        2
+      ]
+    },
+    {
+      "a": [
+        7,
+        3
+      ],
+      "b": [
+        8,
+        3
+      ]
+    },
+    {
+      "a": [
+        3,
+        2
+      ],
+      "b": [
+        3,
+        3
+      ]
+    }
+  ],
+  "afterStateHash": [
+    "5e61bcba66c720765576ae3aa01bcbefdebf4a2919713956408304ccfd97451d",
+    "3388eecd24b2da42e2fda9d2711042ed0563a1c6f02eeb7f6bd9d04172b3edef",
+    "4c226054799b00e1e4e6119e24c0bcb5526c28cecef109db38c99d25bcd309eb",
+    "d0b71caa3c332b55d6defd968940f8e818249b9e52c1494a09c01f873cf8dee2",
+    "6cf78216f28ec6a67d525f6c58494d2aa163ba15fadb2133fbe0587883255a97",
+    "a60196e8b7d6e73d777a78f2fe3b52a4a41105a5b8433aeadfc774b7f0dd6548",
+    "ab636c478b10b9d1cdfa94b24c048a225dc7753e5f0e81b0cdb24c9abbe5387d",
+    "8f706d50cf77048ab19bbda3ae7649c6a1ba57d96521b99e526b243f21a992c1",
+    "06dc2c719f51ccfe7e6fc73ce0bee2181238febde697d6295d4c8f9481d280e9",
+    "0974284629583773884a02e176b3d1e2852a66487f3cc77fb369a83435744acd",
+    "3c27f4c2d62ca983318124c45713fc207d767312e0e5af53fd6a9ea22defda8d"
+  ],
+  "finalScore": 70640,
+  "movesUsed": 11,
+  "maxCascade": 6,
+  "twoStars": 36000,
+  "threeStars": 60000
+}
